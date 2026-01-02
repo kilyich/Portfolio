@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Another cool project
 colors: colors-a
-date: 222023-07-16
+date: ''
 client: Terra Forza
 description: >-
   The application for fitters (golf clubs sellers) which will help to recommend
