@@ -14,7 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Empathy translated to pixels
-    subtitle: Hi, I'm Katsia! I'm a UX/UI designer with 5+ years of experience
+    subtitle: >-
+      Hi, I'm Katsia! I'm a UX/UI Designer with 5+ years of experience,
+      currently based in San Diego, CA, and working at aytm. I create clean,
+      logical, and empathetic designs that deliver comfortable experiences for
+      users with diverse needs.
     styles:
       self:
         height: auto
